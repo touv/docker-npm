@@ -4,6 +4,6 @@
 
 ```bash
 
-	make run config ls -l
+	make npm config ls -l
 
 ```
